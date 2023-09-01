@@ -1,7 +1,7 @@
 Welcome to Tencent RTC Community GitHub! 🚀📹📱
 ===
 
-Hey, developers! We're thrilled to have you here at the Tencent RTC Community GitHub, where creativity and innovation meet real-time communication. This is your one-stop destination for discovering, learning, and contributing to our ever-growing collection of projects and resources.
+This is your one-stop destination for discovering, learning, and contributing to our ever-growing collection of projects and resources, where creativity and innovation meet real-time communication.
 
 What's Inside? 🎁
 ===
