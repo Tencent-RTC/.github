@@ -23,4 +23,4 @@ We believe in the power of collaboration and learning from each other. Join our 
 Connect with Us 🌍
 -
 Stay up-to-date with the latest news, updates, and events by following us on [Twitter](https://twitter.com/TencentRTC),
-[Linkedin](https://www.linkedin.com/company/tencentrtc) or [YouTube](https://www.youtube.com/@tencentrtc), and joining our developer forums. We can't wait to see what you'll create!
+[Linkedin](https://www.linkedin.com/company/tencentrtc) or [YouTube](https://www.youtube.com/@tencentrtc).
