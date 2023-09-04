@@ -18,7 +18,7 @@ Our comprehensive [documentation](https://trtc.io/document) is designed to guide
 
 Community 💬
 -
-We believe in the power of collaboration and learning from each other. Join our vibrant community [Discord](https://discord.gg/vDHty6ddrZ) of developers, share your ideas, ask questions, and contribute to the growth of Tencent RTC.
+We believe in the power of collaboration and learning from each other. Join our [Discord](https://discord.gg/vDHty6ddrZ) community of developers, share your ideas, ask questions, and contribute to the growth of Tencent RTC.
 
 Connect with Us 🌍
 -
