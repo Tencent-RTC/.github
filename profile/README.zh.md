@@ -66,3 +66,9 @@ _[English](https://github.com/Tencent-RTC/.github/blob/main/profile/README.md) |
 [[Flutter SDK](https://github.com/LiteAVSDK/TRTC_Flutter)]
 [[Electron SDK](https://github.com/LiteAVSDK/TRTC_Electron)]
 [[MiniProgram SDK](https://github.com/LiteAVSDK/Live_WXMini)]
+
+> ### WebAR SDK
+>
+> 使用 WebAR SDK 轻松将 AI 美颜、滤镜、美妆、趣味贴纸、Animoji 表情、虚拟形象、虚拟背景等 AR 效果添加到您的小程序、PC Web、移动 Web 页面中。
+>
+> [[Web Demo](https://github.com/tencentcloud-webar/web-demo-en)]
