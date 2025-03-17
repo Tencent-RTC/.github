@@ -35,6 +35,21 @@ Industry-leading technologies provide a competitive edge in entertainment, socia
 [[Electron UIKit](https://github.com/Tencent-RTC/TUIRoomKit/tree/main/Electron)]
 
 
+> ### UIKit for chat
+>
+> TUIChat is a UI component designed for instant messaging scenarios, offering features such as conversations, chat, contacts, and group management. By integrating TUIChat, you can effortlessly add core functionalities like message sending and receiving, conversation management, contact lists, and group chats to your application in just a few simple steps. This allows you to quickly build an efficient and stable instant messaging experience, enabling your business to go live in no time.
+> 
+> [[Android UIKit](https://github.com/TencentCloud/chat-uikit-android)]
+[[iOS UIKit](https://github.com/TencentCloud/chat-uikit-ios)]
+[[React UIKit](https://github.com/TencentCloud/chat-uikit-react)]
+[[Vue UIKit](https://github.com/TencentCloud/chat-uikit-vue)]
+[[React Native UIKit](https://github.com/TencentCloud/chat-demo-react-native)]
+[[Flutter UIKit](https://github.com/TencentCloud/chat-uikit-flutter)]
+[[uniapp UIKit](https://github.com/TencentCloud/chat-uikit-uniapp)]
+[[MiniProgram UIKit](https://github.com/TencentCloud/chat-uikit-wechat)]
+[[Unity UIKit](https://github.com/TencentCloud/chat-uikit-unity)]
+
+
 > ### UIKit for live streaming
 >
 > TUILiveKit is a product suitable for interactive live scenes such as social entertainment, shopping, and fitness. By integrating this product, you can quickly add interactive multi-guest, send gift, room management, and other functions to your app in just three steps within 30 minutes.
