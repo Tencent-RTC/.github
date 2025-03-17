@@ -30,6 +30,22 @@ _[English](https://github.com/Tencent-RTC/.github/blob/main/profile/README.md) |
 [[Flutter UIKit](https://github.com/Tencent-RTC/TUIRoomKit/tree/main/Flutter)]
 [[Electron UIKit](https://github.com/Tencent-RTC/TUIRoomKit/tree/main/Electron)]
 
+> ### 即时通信 UIKit
+>
+> TUIChat 是一款适用于即时通讯场景的 UI 组件，支持会话、聊天、联系人、群组等功能。通过集成 TUIChat，您只需简单几步，即可在短时间内为您的应用添加消息收发、会话管理、联系人列表以及群组聊天等核心功能，帮助您快速构建高效、稳定的即时通讯体验，助力业务迅速落地。
+> 
+> [[Android UIKit](https://github.com/TencentCloud/chat-uikit-android)]
+[[iOS UIKit](https://github.com/TencentCloud/chat-uikit-ios)]
+[[React UIKit](https://github.com/TencentCloud/chat-uikit-react)]
+[[Vue UIKit](https://github.com/TencentCloud/chat-uikit-vue)]
+[[React Native UIKit](https://github.com/TencentCloud/chat-demo-react-native)]
+[[Flutter UIKit](https://github.com/TencentCloud/chat-uikit-flutter)]
+[[uniapp UIKit](https://github.com/TencentCloud/chat-uikit-uniapp)]
+[[MiniProgram UIKit](https://github.com/TencentCloud/chat-uikit-wechat)]
+[[Unity UIKit](https://github.com/TencentCloud/chat-uikit-unity)]
+
+
+
 > ### 直播互动 UIKit
 >
 > TUILiveKit是一款适用于社交娱乐、购物、健身等互动直播场景的产品，通过集成该产品，仅需三步，30分钟内就可以为您的 App 添加互动连麦、送礼、房间管理等功能，快速上线业务。
