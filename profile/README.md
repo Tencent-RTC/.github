@@ -71,3 +71,8 @@ Industry-leading technologies provide a competitive edge in entertainment, socia
 [[Electron SDK](https://github.com/LiteAVSDK/TRTC_Electron)]
 [[MiniProgram SDK](https://github.com/LiteAVSDK/Live_WXMini)]
 
+> ### WebAR SDK
+>
+> Easily add AR effects such as AI beauty enhancement, filters, makeup, stickers, Animoji expressions, virtual avatars, and virtual backgrounds to your mini programs, PC web, and mobile web pages using the WebAR SDK.
+>
+> [[Web Demo](https://github.com/tencentcloud-webar/web-demo-en)]
